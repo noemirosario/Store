@@ -1,2 +1,2 @@
-# https://noemirosario.github.io/Store/ #
+# https://noemirosario.github.io/shop/ #
 
